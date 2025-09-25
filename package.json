@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.1",
+    "ethers": "^6.15.0",
+    "hardhat": "^3.0.6",
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "@mui/styled-engine-sc": "^7.3.2",
+    "@mui/system": "^7.3.2",
+    "styled-components": "^6.1.19"
+  }
+}
